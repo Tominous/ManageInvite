@@ -1,5 +1,5 @@
 {
-    "TITLE": "{{username}}'s stats",
+    "TITLE": "{{username}}'s statistics",
     "STATS_TITLE": "📊 Statistics",
     "STATS_CONTENT": "`Servers: {{guilds}}`\n`Users: {{users}}`",
     "VERSIONS_TITLE": "⚙️ Versions",
